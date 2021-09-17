@@ -14,3 +14,6 @@ Nevertheless the limited computational power, my tests confirmed the [ 1 ] concl
 
 In the presention, there are all the results.
 In the notebook, you can find the code and all the necessary information to reproduce the results. Actaullly the notebook is almost ready to be executed.
+
+
+The framework used in this project is **TensorFlow** and **Spark**.
