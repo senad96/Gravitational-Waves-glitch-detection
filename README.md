@@ -1,4 +1,4 @@
-# Gravitional-Waves-glitch-detection
+# Gravitational-Waves-glitch-detection
 
 
 Gravitational wave detectors suffer severely from (non-linear) noise. A new branch of research in computational physics and gravitational wave physics proposes the use of recent models of Artificial Intelligence and Deep Learning in detector pipelines to improve GW search performance.
